@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Imtanvir
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Imtanvir03/Imtanvir03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working on a many Full Stack Projects!
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with content creators.
+🥅 2022 Goals: Doing more technical projects and Contribution to Open Source.
+⚡ Fun fact: I love to playing cricket
